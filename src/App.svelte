@@ -406,7 +406,6 @@
         display: none;
     }
     
-
     .rights {
         position: absolute;
         right: 7px;
